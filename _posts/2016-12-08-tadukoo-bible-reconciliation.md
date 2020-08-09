@@ -6,7 +6,15 @@ old_blog: true
 series: "TBP"
 index: 2
 categories: blog
-tags: [API, engine, games, "Minecraft - Order of the Stone - A Retelling of the Cave Game", Minecraft with Tadukoo, Tadukoo Bible Project, Tadukooverse, TAG]
+tags: 
+- API
+- Engine
+- Games
+- "Minecraft - Order of the Stone - A Retelling of the Cave Game"
+- Minecraft with Tadukoo
+- Tadukoo Bible Project
+- Tadukooverse
+- TAG
 comment_issue_id: 26
 ---
 I recently talked about my new goal being the <a href="{{ site.baseurl }}{% post_url 2016-11-29-tadukoo-bible-project %}">Tadukoo Bible Project</a>, and that 

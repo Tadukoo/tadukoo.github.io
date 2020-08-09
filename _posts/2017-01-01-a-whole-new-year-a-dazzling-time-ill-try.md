@@ -6,7 +6,10 @@ old_blog: true
 series: "TBP"
 index: 6
 categories: blog
-tags: [beliefs, Christian, Tadukoo Bible Project]
+tags:
+- Beliefs
+- Christian
+- Tadukoo Bible Project
 comment_issue_id: 23
 ---
 Just like <a href="{{ site.baseurl }}{% post_url 2016-01-01-new-year-new-plans %}">last year</a>, I have new plans with the coming of the New Year. This year, 

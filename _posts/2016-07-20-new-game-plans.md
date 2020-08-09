@@ -6,7 +6,14 @@ old_blog: true
 series: "TAG"
 index: 8
 categories: blog
-tags: [API, engine, games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D., Tadukoo RPGs, TAG]
+tags: 
+- API
+- Engine
+- Games
+- Programming
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
+- Tadukoo RPGs
+- TAG
 comment_issue_id: 20
 ---
 This post is to talk about my current plans for games. I'll start by going over the plan for TAG and any changes to it, then into the other games, and a 

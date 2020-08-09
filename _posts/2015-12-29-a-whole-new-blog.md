@@ -6,7 +6,8 @@ old_blog: true
 series: "Blogger Updates"
 index: 1
 categories: blog
-tags: [blogger]
+tags: 
+- Blogger
 comment_issue_id: 1
 ---
 Honestly, I don't think I've ever written a blog post before. If I have, I have no idea if I wrote one on this site or not or how long ago I first created 

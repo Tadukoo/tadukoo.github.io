@@ -6,7 +6,11 @@ old_blog: true
 series: "TAG"
 index: 6
 categories: blog
-tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D., TAG]
+tags: 
+- Games
+- Programming
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
+- TAG
 comment_issue_id: 11
 ---
 I made the base engine that I planned on doing when I last talked about developing the game.

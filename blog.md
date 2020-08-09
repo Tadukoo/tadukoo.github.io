@@ -9,4 +9,11 @@ title: Blog
 ## [{{post.title}}]({{post.url}})
 ### by {{post.author}} - {{post.date | date_to_string}}
 {{post.excerpt}}
+{% assign old_tags = post.tags | sort %}
+{% assign tags = '' | split: '' %}
+{% for tag in old_tags %}
+{% capture newTag %}[{{tag}}](/blog/tags.html#{{tag | slugify}}){% endcapture %}
+{% assign tags = tags | push: newTag %}
+{% endfor %}
+Tags: {{tags | join:", "}}
 {% endfor %}

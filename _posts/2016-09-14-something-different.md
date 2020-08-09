@@ -6,7 +6,8 @@ old_blog: true
 series: "Blogger Updates"
 index: 5
 categories: blog
-tags: [blogger]
+tags: 
+- Blogger
 comment_issue_id: 22
 ---
 I've noticed that recently I've been posting a lot of "here's my updated plans" posts. So I want to do something different this time.

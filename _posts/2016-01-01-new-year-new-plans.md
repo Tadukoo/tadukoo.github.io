@@ -10,7 +10,7 @@ tags:
 - Bukkit
 - Minecraft with Tadukoo
 - 'Minecraft - Order of the Stone - A Retelling of the Cave Game'
-- programming
+- Programming
 - Proving Creation
 - Song Time
 - Tadukoo Bible

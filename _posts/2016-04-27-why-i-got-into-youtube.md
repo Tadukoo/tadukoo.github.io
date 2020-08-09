@@ -6,7 +6,11 @@ old_blog: true
 series: "Videos"
 index: 2
 categories: blog
-tags: [beliefs, Christian, CUR, YouTube]
+tags: 
+- Beliefs
+- Christian
+- CUR
+- YouTube
 comment_issue_id: 15
 ---
 It all started back in December 2012. Sometime that month, I was sitting down on the couch, reading my Bible. I read a verse and thought "that would be good 

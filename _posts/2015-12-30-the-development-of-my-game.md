@@ -6,7 +6,10 @@ old_blog: true
 series: "TAG"
 index: 2
 categories: blog
-tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
+tags: 
+- Games
+- Programming
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
 comment_issue_id: 3
 ---
 The game has come a long way from the beginning until now. I ended up calling it "TAG" as a way to say it quickly. TAG came from the way I named the project 

@@ -6,7 +6,11 @@ old_blog: true
 series: "General Beliefs"
 index: 2
 categories: blog
-tags: [beliefs, Christian, CUR, YouTube]
+tags:
+- Beliefs
+- Christian
+- CUR
+- YouTube
 comment_issue_id: 17
 ---
 I'm gonna get straight to the point here. Last month or so, I believed that God was telling me to stop going to college for a year. By this, I mean instead of 

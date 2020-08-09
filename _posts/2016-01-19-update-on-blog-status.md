@@ -6,7 +6,8 @@ old_blog: true
 series: "Blogger Updates"
 index: 3
 categories: blog
-tags: [blogger]
+tags: 
+- Blogger
 comment_issue_id: 12
 ---
 When I first started the blog, I was doing two posts a day. I thought that I would end up doing two posts a day everyday. Unfortunately, that is not going to 

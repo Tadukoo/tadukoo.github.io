@@ -6,7 +6,11 @@ old_blog: true
 series: "TAG"
 index: 7
 categories: blog
-tags: [API, engine, games, programming]
+tags: 
+- API
+- Engine
+- Games
+- Programming
 comment_issue_id: 19
 ---
 Just as a note before we get started, I always have to type and delete "so" at the beginning of every blog. "So" is my go-to word to start a sentence after 

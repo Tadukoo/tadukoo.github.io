@@ -6,7 +6,12 @@ old_blog: true
 series: "TBP"
 index: 1
 categories: blog
-tags: [Christian, programming, Tadukoo Bible Project, TAG, YouTube]
+tags: 
+- Christian
+- Programming
+- Tadukoo Bible Project
+- TAG
+- YouTube
 comment_issue_id: 25
 ---
 Recently, I went looking for sources for my apologetics research. I ended up finding an e-book called Apologetics Challenge. The first challenge is to write a 

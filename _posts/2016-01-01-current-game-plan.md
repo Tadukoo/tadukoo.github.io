@@ -6,7 +6,13 @@ old_blog: true
 series: "TAG"
 index: 5
 categories: blog
-tags: [API, engine, games, programming, STSB, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
+tags: 
+- API
+- Engine
+- Games
+- Programming
+- STSB
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
 comment_issue_id: 8
 ---
 My current plan with my game (and beyond) is to get the API, Engine, and Game separation finished. That would get it to v.0.0.6.0. Also, then I would have an 

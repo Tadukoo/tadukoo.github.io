@@ -10,7 +10,7 @@ tags:
 - Bukkit
 - Christian
 - CUR
-- games
+- Games
 - Minecraft with Tadukoo
 - Proving Creation
 - T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.

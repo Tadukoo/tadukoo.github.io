@@ -6,7 +6,10 @@ old_blog: true
 series: "General Beliefs"
 index: 1
 categories: blog
-tags: [beliefs, Christian, YouTube]
+tags: 
+- Beliefs
+- Christian
+- YouTube
 comment_issue_id: 14
 ---
 At the beginning of the day on March 11th, I was subscribed to 69 YouTube channels. That's not some sort of sick joke, that's the actual amount, and I didn't 

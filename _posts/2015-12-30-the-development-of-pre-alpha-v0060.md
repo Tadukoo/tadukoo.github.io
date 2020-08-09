@@ -6,7 +6,10 @@ old_blog: true
 series: "TAG"
 index: 3
 categories: blog
-tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
+tags: 
+- Games
+- Programming
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
 comment_issue_id: 4
 ---
 The goal of v.0.0.6.0 started out innocent enough: Make extras and optimize the game. (Note: The extras were planned to be tic-tac-toe, snake, and moon 

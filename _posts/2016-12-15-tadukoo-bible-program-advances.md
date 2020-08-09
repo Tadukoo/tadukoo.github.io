@@ -6,7 +6,9 @@ old_blog: true
 series: "TBP"
 index: 3
 categories: blog
-tags: [programming, Tadukoo Bible]
+tags: 
+- Programming
+- Tadukoo Bible
 comment_issue_id: 27
 ---
 The Tadukoo Bible Program is a program I'm working on that will replace the Tadukoo Bible Bukkit plugin.

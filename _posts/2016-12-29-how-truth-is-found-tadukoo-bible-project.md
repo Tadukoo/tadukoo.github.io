@@ -6,7 +6,10 @@ old_blog: true
 series: "TBP"
 index: 5
 categories: blog
-tags: [beliefs, Christian, Tadukoo Bible Project]
+tags:
+- Beliefs
+- Christian
+- Tadukoo Bible Project
 comment_issue_id: 29
 ---
 I previously talked about the <a href="{{ site.baseurl }}{% post_url 2016-11-29-tadukoo-bible-project %}">Tadukoo Bible Project</a>. I mentioned that 

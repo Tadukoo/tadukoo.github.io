@@ -8,12 +8,12 @@ index: 3
 categories: blog
 tags: 
 - API
-- blogger
+- Blogger
 - Bukkit
 - Christian
 - CUR
-- engine
-- games
+- Engine
+- Games
 - "Minecraft - Order of the Stone - A Retelling of the Cave Game"
 - Minecraft with Tadukoo
 - Proving Creation

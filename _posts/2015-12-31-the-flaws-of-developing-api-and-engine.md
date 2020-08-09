@@ -6,7 +6,10 @@ old_blog: true
 series: "TAG"
 index: 4
 categories: blog
-tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
+tags: 
+- Games
+- Programming
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
 comment_issue_id: 6
 ---
 When I first set out to develop an API for my game, I figured it wouldn't be that hard. I wasn't even thinking about separating the engine as well. When I 

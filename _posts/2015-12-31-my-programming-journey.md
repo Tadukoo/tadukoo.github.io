@@ -6,7 +6,13 @@ old_blog: true
 series: "General Programming"
 index: 1
 categories: blog
-tags: [games, OHRRPGCE, programming, STSB, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D., Tadukoo RPGs]
+tags: 
+- Games
+- OHRRPGCE
+- Programming
+- STSB
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
+- Tadukoo RPGs
 comment_issue_id: 7
 ---
 Before we get started, I'd like to note that I had to correct stuff in here, because it turns out I don't remember the events as well as I thought.

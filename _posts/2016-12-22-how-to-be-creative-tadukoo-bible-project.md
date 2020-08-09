@@ -6,7 +6,9 @@ old_blog: true
 series: "TBP"
 index: 4
 categories: blog
-tags: [beliefs, Tadukoo Bible Project]
+tags: 
+- Beliefs
+- Tadukoo Bible Project
 comment_issue_id: 28
 ---
 The idea with being creative in the <a href="{{ site.baseurl }}{% post_url 2016-11-29-tadukoo-bible-project %}">Tadukoo Bible Project</a> can be misinterpreted 

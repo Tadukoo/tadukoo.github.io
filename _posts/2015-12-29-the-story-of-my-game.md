@@ -6,7 +6,10 @@ old_blog: true
 series: "TAG"
 index: 1
 categories: blog
-tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
+tags: 
+- Games
+- Programming
+- T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
 comment_issue_id: 2
 ---
 There's a game I've been working on for over a year now. It originally started out as a joke, but then became an actual game, although it is very early in 

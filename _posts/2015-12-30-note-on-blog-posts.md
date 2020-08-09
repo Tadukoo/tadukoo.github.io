@@ -6,7 +6,8 @@ old_blog: true
 series: "Blogger Updates"
 index: 2
 categories: blog
-tags: [blogger]
+tags: 
+- Blogger
 comment_issue_id: 5
 ---
 For now with the blog, I'm going to limit myself to two posts a day, other than blog updates like this one. I'm also going to try starting tomorrow to spread 
