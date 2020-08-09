@@ -3,6 +3,8 @@ title:  "Why I Got Rid of Most of My YouTube Subscriptions"
 author: Tadukoo
 date:   2016-03-16 22:02:00 -0300
 old_blog: true
+series: "General Beliefs"
+index: 1
 categories: blog
 tags: [beliefs, Christian, YouTube]
 comment_issue_id: 14

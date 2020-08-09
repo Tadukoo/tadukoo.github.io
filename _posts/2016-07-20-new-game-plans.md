@@ -3,6 +3,8 @@ title:  "New Game Plans"
 author: Tadukoo
 date:   2016-07-20 14:40:00 -0300
 old_blog: true
+series: "TAG"
+index: 8
 categories: blog
 tags: [API, engine, games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D., Tadukoo RPGs, TAG]
 comment_issue_id: 20

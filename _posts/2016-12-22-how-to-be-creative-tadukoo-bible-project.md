@@ -3,6 +3,8 @@ title:  "How to be Creative (Tadukoo Bible Project)"
 author: Tadukoo
 date:   2016-12-22 20:19:00 -0300
 old_blog: true
+series: "TBP"
+index: 4
 categories: blog
 tags: [beliefs, Tadukoo Bible Project]
 comment_issue_id: 28

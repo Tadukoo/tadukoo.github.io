@@ -3,6 +3,8 @@ title:  "Update on Everything"
 author: Tadukoo
 date:   2016-08-24 15:39:00 -0300
 old_blog: true
+series: "Plans"
+index: 3
 categories: blog
 tags: 
 - API

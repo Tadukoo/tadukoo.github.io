@@ -3,6 +3,8 @@ title:  "New Year, New Plans"
 author: Tadukoo
 date:   2016-01-01 12:27:00 -0300
 old_blog: true
+series: "Plans"
+index: 1
 categories: blog
 tags:
 - Bukkit

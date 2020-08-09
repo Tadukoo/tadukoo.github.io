@@ -3,6 +3,8 @@ title:  "The Flaws of Developing an API and Engine Bottom-Up Rather than Top-Dow
 author: Tadukoo
 date:   2015-12-31 12:08:00 -0300
 old_blog: true
+series: "TAG"
+index: 4
 categories: blog
 tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
 comment_issue_id: 6

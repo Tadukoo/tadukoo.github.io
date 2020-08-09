@@ -3,6 +3,8 @@ title:  "A Whole New Blog! (Blogger)"
 author: Tadukoo
 date:   2015-12-29 21:49:00 -0300
 old_blog: true
+series: "Blogger Updates"
+index: 1
 categories: blog
 tags: [blogger]
 comment_issue_id: 1

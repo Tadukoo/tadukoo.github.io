@@ -3,6 +3,8 @@ title:  "Doubting God (or am I?)"
 author: Tadukoo
 date:   2016-05-10 13:41:00 -0300
 old_blog: true
+series: "General Beliefs"
+index: 2
 categories: blog
 tags: [beliefs, Christian, CUR, YouTube]
 comment_issue_id: 17

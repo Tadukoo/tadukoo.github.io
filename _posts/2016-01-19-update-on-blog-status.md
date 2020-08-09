@@ -3,6 +3,8 @@ title:  "Update on Blog Status (Blogger)"
 author: Tadukoo
 date:   2016-01-19 12:10:00 -0300
 old_blog: true
+series: "Blogger Updates"
+index: 3
 categories: blog
 tags: [blogger]
 comment_issue_id: 12

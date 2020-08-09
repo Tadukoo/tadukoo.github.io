@@ -3,6 +3,8 @@ title: "Welcome to My Blog"
 author: Tadukoo
 date:   2020-08-08 20:28:00 -0300
 categories: blog
+series: "Blog Updates"
+index: 1
 tags: 
 - Blog
 comment_issue_id: 24

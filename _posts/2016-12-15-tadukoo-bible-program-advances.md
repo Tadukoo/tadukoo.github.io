@@ -3,6 +3,8 @@ title:  "Tadukoo Bible Program Advances"
 author: Tadukoo
 date:   2016-12-15 11:28:00 -0300
 old_blog: true
+series: "TBP"
+index: 3
 categories: blog
 tags: [programming, Tadukoo Bible]
 comment_issue_id: 27

@@ -3,6 +3,8 @@ title:  "Note on Blog Posts (Blogger)"
 author: Tadukoo
 date:   2015-12-30 16:34:00 -0300
 old_blog: true
+series: "Blogger Updates"
+index: 2
 categories: blog
 tags: [blogger]
 comment_issue_id: 5

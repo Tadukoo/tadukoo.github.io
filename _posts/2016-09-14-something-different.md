@@ -3,6 +3,8 @@ title:  "Something Different (Blogger)"
 author: Tadukoo
 date:   2016-09-14 12:57:00 -0300
 old_blog: true
+series: "Blogger Updates"
+index: 5
 categories: blog
 tags: [blogger]
 comment_issue_id: 22

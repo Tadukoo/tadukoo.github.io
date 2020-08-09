@@ -3,6 +3,8 @@ title:  "Explanation of Proving Creation"
 author: Tadukoo
 date:   2016-01-06 16:03:00 -0300
 old_blog: true
+series: "Videos"
+index: 1
 categories: blog
 tags: [Proving Creation, YouTube]
 comment_issue_id: 10

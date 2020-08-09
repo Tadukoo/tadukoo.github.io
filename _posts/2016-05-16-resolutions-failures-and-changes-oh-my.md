@@ -3,6 +3,8 @@ title:  "Resolutions, Failures, and Changes (Oh My!)"
 author: Tadukoo
 date:   2016-05-16 22:15:00 -0300
 old_blog: true
+series: "Plans"
+index: 2
 categories: blog
 tags: 
 - Bukkit

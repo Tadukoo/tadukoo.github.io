@@ -3,6 +3,8 @@ title:  "How Truth is Found (Tadukoo Bible Project)"
 author: Tadukoo
 date:   2016-12-29 19:35:00 -0300
 old_blog: true
+series: "TBP"
+index: 5
 categories: blog
 tags: [beliefs, Christian, Tadukoo Bible Project]
 comment_issue_id: 29

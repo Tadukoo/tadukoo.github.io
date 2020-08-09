@@ -3,6 +3,8 @@ title:  "Current Game Plan"
 author: Tadukoo
 date:   2016-01-01 11:14:00 -0300
 old_blog: true
+series: "TAG"
+index: 5
 categories: blog
 tags: [API, engine, games, programming, STSB, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.]
 comment_issue_id: 8

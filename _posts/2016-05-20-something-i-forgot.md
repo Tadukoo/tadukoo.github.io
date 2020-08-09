@@ -3,6 +3,8 @@ title:  "Something I Forgot"
 author: Tadukoo
 date:   2016-05-20 22:36:00 -0300
 old_blog: true
+series: "TAG"
+index: 7
 categories: blog
 tags: [API, engine, games, programming]
 comment_issue_id: 19
@@ -10,13 +12,12 @@ comment_issue_id: 19
 Just as a note before we get started, I always have to type and delete "so" at the beginning of every blog. "So" is my go-to word to start a sentence after 
 thinking about it for a bit. If you see the word "so", I probably thought about that part of the post for a while.
 
-Anyway, <a href="{{ site.baseurl }}{% post_url 2016-05-16-resolutions-failures-and-changes-oh-my %}">last post</a> I talked about the resolutions I made at 
+Anyway, [last post]({% post_url 2016-05-16-resolutions-failures-and-changes-oh-my %}) I talked about the resolutions I made at 
 the start of the year and the updates to them. There's just one thing I forgot.
 
 I forgot about the separation of API, Engine, and Game leading to the possibility to create more games and programs easily and that I wanted to make new 
-games and programs in order to improve the API and Engine. That's why in the 
-<a href="{{ site.baseurl }}{% post_url 2016-01-01-new-year-new-plans %}">original resolution</a>, I had the section to create two games using the API and 
-Engine. In the current one, I simply said I'd like to make games, but I'm not sure when.
+games and programs in order to improve the API and Engine. That's why in the [original resolution]({% post_url 2016-01-01-new-year-new-plans %}), 
+I had the section to create two games using the API and Engine. In the current one, I simply said I'd like to make games, but I'm not sure when.
 
 The reason I'm bringing this up now is that I've been inspired by 
 <a href="http://www.minecraftforum.net/forums/mapping-and-modding/maps/2231637-beta-minevolution-a-minecraft-incrementation-game">Minevolution</a> (a 

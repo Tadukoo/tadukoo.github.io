@@ -3,6 +3,8 @@ title:  "Tadukoo Bible Project"
 author: Tadukoo
 date:   2016-11-29 17:32:00 -0300
 old_blog: true
+series: "TBP"
+index: 1
 categories: blog
 tags: [Christian, programming, Tadukoo Bible Project, TAG, YouTube]
 comment_issue_id: 25

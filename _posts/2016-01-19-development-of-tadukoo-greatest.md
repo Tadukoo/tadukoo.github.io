@@ -3,6 +3,8 @@ title:  "Development of T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N.
 author: Tadukoo
 date:   2016-01-19 11:59:00 -0300
 old_blog: true
+series: "TAG"
+index: 6
 categories: blog
 tags: [games, programming, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D., TAG]
 comment_issue_id: 11

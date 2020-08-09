@@ -3,6 +3,8 @@ title:  "Tadukoo Bible Reconciliation"
 author: Tadukoo
 date:   2016-12-08 10:39:00 -0300
 old_blog: true
+series: "TBP"
+index: 2
 categories: blog
 tags: [API, engine, games, "Minecraft - Order of the Stone - A Retelling of the Cave Game", Minecraft with Tadukoo, Tadukoo Bible Project, Tadukooverse, TAG]
 comment_issue_id: 26

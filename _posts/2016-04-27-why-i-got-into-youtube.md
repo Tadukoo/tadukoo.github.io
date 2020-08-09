@@ -3,6 +3,8 @@ title:  "Why I Got into YouTube"
 author: Tadukoo
 date:   2016-04-27 13:49:00 -0300
 old_blog: true
+series: "Videos"
+index: 2
 categories: blog
 tags: [beliefs, Christian, CUR, YouTube]
 comment_issue_id: 15

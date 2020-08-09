@@ -3,6 +3,8 @@ title:  "Thesaurus Funnies"
 author: Tadukoo
 date:   2016-02-14 13:46:00 -0300
 old_blog: true
+series: "And More"
+index: 1
 categories: blog
 tags: [And more]
 comment_issue_id: 13

@@ -3,6 +3,8 @@ title:  "A Whole New Year, A Dazzling Time I'll Try to Use"
 author: Tadukoo
 date:   2017-01-01 03:00:00 -0300
 old_blog: true
+series: "TBP"
+index: 6
 categories: blog
 tags: [beliefs, Christian, Tadukoo Bible Project]
 comment_issue_id: 23

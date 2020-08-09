@@ -3,6 +3,8 @@ title:  "My Programming Journey"
 author: Tadukoo
 date:   2015-12-31 16:23:00 -0300
 old_blog: true
+series: "General Programming"
+index: 1
 categories: blog
 tags: [games, OHRRPGCE, programming, STSB, T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D., Tadukoo RPGs]
 comment_issue_id: 7
