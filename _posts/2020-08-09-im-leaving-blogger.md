@@ -8,7 +8,7 @@ index: 6
 categories: blog
 tags: 
 - Blog
-comment_issue_id: 31
+comment_issue_id: 30
 ---
 As of today, I'm officially leaving Blogger. I'm taking all my posts with me too. I've setup two websites for my future blogging and programming projects, and all my posts from here will be available on one of those 
 websites moving forward.
