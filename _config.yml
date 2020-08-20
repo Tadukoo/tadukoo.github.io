@@ -1,4 +1,6 @@
 theme: jekyll-theme-midnight
+title: Going-Ons of Tadukoo
+description: Ramblings about my programming, beliefs, videos, and more.
 collections:
   projects:
     output: true
