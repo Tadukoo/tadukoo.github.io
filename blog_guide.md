@@ -8,6 +8,7 @@ title: Blog Guide
 	* [General](#general)
 	* [Games](#games)
 		* [T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.](#tadukoo-is-the-greatest-person-who-ever-lived)
+		* [Worldbuilding](#worldbuilding)
 * [Beliefs](#beliefs)
 	* [General](#general-1)
 	* [Tadukoo Bible Project](#tadukoo-bible-project)
@@ -35,6 +36,13 @@ A specific joke game I was working on in the past.
 
 {% assign tagPosts = site.posts | where:"series", "TAG" | sort:"index" %}
 {% for tagPost in tagPosts %}{{tagPost.index}}. [{{tagPost.title}}]({{tagPost.url}}) - {{tagPost.date | date_to_string}}
+{% endfor %}
+
+### Worldbuilding
+I've started ideas for various worlds, most of which were either tied to video games or I wanted to make into a game.
+
+{% assign worldbuildingPosts = site.posts | where:"series", "Worldbuilding" | sort:"index" %}
+{% for worldbuildingPost in worldbuildingPosts %}{{worldbuildingPost.index}}. [{{worldbuildingPost.title}}]({{worldbuildingPost.url}}) - {{worldbuildingPost.date | date_to_string}}
 {% endfor %}
 
 ## Beliefs
