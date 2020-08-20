@@ -45,3 +45,15 @@ or not, but I have some ideas.
 Some things I don't know though:
 - What is the UFO-like thing near the center on the original? My only guess is it was a portal that some legendary Pokemon came out of, but you see other portals that are drawn differently.
 - What are the stickers for? Are they decorations, or did they actually mean something at some point?
+
+Edit 8/20/2020: I realized I didn't go into my worldbuilding projects beyond this Pokemon-type world. Also I have this tagged as OHRRPGCE, which is never mentioned, so here's some more info:
+
+This world was certainly the most thought-out in terms of the map and at the time most thought out story-wise (with the events going on as I played with this world), but I did worldbuilding for 
+other worlds in the future. One of the most noteworthy (which I have mentioned in other posts at some point) is that I wanted to make some RPGs using OHRRPGCE at one point. OHRRPGCE stands for 
+"Official Hamster Republic Role Playing Game Construction Engine" and was (or is, I haven't kept up with if it still exists) a program to make it easy to make a tile-based RPG. I believe that 
+this big Pokemon map project was in my mind when I was using OHRRPGCE, but it's hard to know for sure. With OHRRPGCE, I had plans to make a series of 7 games in a single universe, and the people 
+in it were more human than Pokemon (I think I used shape-based humanoid creatures). The world wasn't as thought out as this one, but I made several maps for it along with planning some of the 
+history / plot of this world.
+
+Those OHRRPGCE game ideas got me inspired to work on TAG (a.k.a. T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.), so OHRRPGCE and these Pokemon maps were the 
+most noteworthy worldbuilding projects in my past. I'll likely write more posts in the future about these projects and others.
