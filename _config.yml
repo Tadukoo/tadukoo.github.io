@@ -2,10 +2,24 @@ theme: jekyll-theme-midnight
 title: Going-Ons of Tadukoo
 description: Ramblings about my programming, beliefs, videos, and more.
 collections:
+  changelogs:
+    output: true
+  guides:
+    output: true
   projects:
     output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: "changelogs"
+    values:
+      layout: "changelog"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
   - scope:
       path: ""
       type: "posts"

@@ -9,6 +9,8 @@ title: Blog Guide
 	* [Games](#games)
 		* [T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.](#tadukoo-is-the-greatest-person-who-ever-lived)
 		* [Worldbuilding](#worldbuilding)
+	* [Minecraft](#minecraft)
+		* [Tadukoo Bible](#tadukoo-bible)
 * [Beliefs](#beliefs)
 	* [General](#general-1)
 	* [Tadukoo Bible Project](#tadukoo-bible-project)
@@ -31,18 +33,28 @@ General posts about programming that don't fall under any subcategories
 ### Games
 Posts about games I've programmed.
 
-### T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
+#### T.A.D.U.K.O.O. I.S. T.H.E. G.R.E.A.T.E.S.T. P.E.R.S.O.N. W.H.O. E.V.E.R. L.I.V.E.D.
 A specific joke game I was working on in the past.
 
 {% assign tagPosts = site.posts | where:"series", "TAG" | sort:"index" %}
 {% for tagPost in tagPosts %}{{tagPost.index}}. [{{tagPost.title}}]({{tagPost.url}}) - {{tagPost.date | date_to_string}}
 {% endfor %}
 
-### Worldbuilding
+#### Worldbuilding
 I've started ideas for various worlds, most of which were either tied to video games or I wanted to make into a game.
 
 {% assign worldbuildingPosts = site.posts | where:"series", "Worldbuilding" | sort:"index" %}
 {% for worldbuildingPost in worldbuildingPosts %}{{worldbuildingPost.index}}. [{{worldbuildingPost.title}}]({{worldbuildingPost.url}}) - {{worldbuildingPost.date | date_to_string}}
+{% endfor %}
+
+### Minecraft
+Posts about programming I've done involving Minecraft (currently just Bukkit plugins).
+
+#### Tadukoo Bible
+A bukkit plugin I made that lets you read the Bible in Minecraft. [Go here for the project page](/projects/TadukooBible.html)
+
+{% assign tbPosts = site.posts | where:"series", "Tadukoo Bible" | sort:"index" %}
+{% for tbPost in tbPosts %}{{tbPost.index}}. [{{tbPost.title}}]({{tbPost.url}}) - {{tbPost.date | date_to_string}}
 {% endfor %}
 
 ## Beliefs

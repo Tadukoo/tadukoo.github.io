@@ -12,4 +12,6 @@ There are many blog posts compared to the other types of pages.
 
 ## Projects
 {% for project in site.projects %}- [{{project.title}}]({{project.url}}) - {{project.blurb}}
+{% assign projectPages = site.pages | where:"category", project.short_name %}{% for projectPage in projectPages %}
+	* [{{projectPage.title}}]({{projectPage.url}}){% endfor %}
 {% endfor %}
