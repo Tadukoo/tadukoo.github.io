@@ -4,6 +4,13 @@ layout: default
 <h1>{{page.title}}</h1>
 {% assign project = site.projects | where:"short_name", page.project | first %}
 This changelog is for the <a href="{{project.url}}">{{project.title}}</a> project.
+<br><br>
+<h4>{{project.title}} Changelog Navigation</h4>
+{% assign changelogs = site.changelogs | where:"project", page.project | sort:"index" %}
+<ul>
+{% for changelog in changelogs %}<li><a href="{{changelog.url}}">{{changelog.title}}</a></li>
+{% endfor %}
+</ul>
 
 {{page.summary | markdownify}}
 
