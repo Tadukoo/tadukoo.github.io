@@ -40,7 +40,7 @@ The goal of v.0.0.5.0 became making a save system to save the current area, part
 you left off.
 
 ### v.0.0.6.0
-v.0.0.6.0 History - Coming Soon
+[v.0.0.6.0 History](/changelogs/tag-0060.html)
 
 This is the current stage of the game's development. The goal of v.0.0.6.0 was originally to optimize the game, but eventually it added so many other ideas, including a 
 Player Select screen, being able to "hack" objects, having achievements, adding more sounds, making a more useful debug system, improving the save system, making controls 
