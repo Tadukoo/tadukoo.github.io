@@ -28,5 +28,7 @@ button or something to stop the spasming. After coming up with the rest of the t
 online (on a site that's a parody of YouTube) that causes knee spasms. After this, he plots his revenge of destroying the channel the video is on.
 
 ## Version History
+[Click here for a version history overview](/TAG/tag-version-history.html)
+
 {% assign changelog = site.changelogs | where:"project", page.short_name | sort:"index" | last %}
 [Click here for the latest changelog]({{changelog.url}})
