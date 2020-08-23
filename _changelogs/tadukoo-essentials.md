@@ -67,6 +67,10 @@ index: 1
 * [Alpha 0.1.1.5](#alpha-0115)
 * [Alpha 0.1.1.6](#alpha-0116)
 * [Alpha 0.2](#alpha-02)
+* [Alpha 0.2.1](#alpha-021)
+* [Alpha 0.2.2](#alpha-022)
+* [Alpha 0.2.3](#alpha-023)
+* [Alpha 0.2.4](#alpha-024)
 
 ## Alpha 0.0.1
 * First version
@@ -407,3 +411,15 @@ index: 1
 
 ## Alpha 0.2
 * All commands can be set to true or false in the commands.yml file.
+
+## Alpha 0.2.1
+* Added ```/sun [world]```
+
+## Alpha 0.2.2
+* Added ```/rain [world]```
+
+## Alpha 0.2.3
+* Added ```/storm [world]```
+
+## Alpha 0.2.4
+* Added ```/weather <type> [world]```
