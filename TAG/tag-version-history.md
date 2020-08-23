@@ -8,12 +8,12 @@ version system changes along with actual development happening. Below are links 
 ## Pre-Alpha
 
 ### Old Version System
-Old Version System History - Coming Soon
+[Old Version System History](/changelogs/tag-old.html)
 
 The old version system was used before an actual version system was chosen.
 
 ### v.0.0.1.0
-v.0.0.1.0 History - Coming Soon
+[v.0.0.1.0 History](/changelogs/tag-0010.html)
 
 Once the new version system was made, it was decided that v.0.0.1.0 would come when the Bedroom (the first area) was completed.
 
