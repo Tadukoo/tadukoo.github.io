@@ -3,6 +3,11 @@ title: Sitemap
 ---
 # Sitemap
 
+#### Table of Contents
+* [Blog](#blog)
+* [Projects](#projects)
+* [Stories](#stories)
+
 ## [About](/about.html)
 
 ## Blog
@@ -14,4 +19,8 @@ There are many blog posts compared to the other types of pages.
 {% for project in site.projects %}- [{{project.title}}]({{project.url}}) - {{project.blurb}}
 {% assign projectPages = site.pages | where:"category", project.short_name %}{% for projectPage in projectPages %}
 	* [{{projectPage.title}}]({{projectPage.url}}){% endfor %}
+{% endfor %}
+
+## Stories
+{% for story in site.stories %}- [{{story.title}}]({{story.url}}) - {{story.blurb}}
 {% endfor %}

@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign story = site.stories | where:"short_name", page.story | first %}
+{% assign version = site.story_versions | where:"story", page.story | where:"version", page.version | first %}
+<h1><a href="{{version.url}}">{{story.title}} - {{version.version}} Version</a></h1>
+{% if page.part %}
+{% assign partNum = page.part | minus:1 %}
+{% assign part_name = version.parts[partNum] %}
+<h2>Part {{page.part}}: {{part_name}}</h2>
+<h3>{{page.title}}</h3>
+{% else %}
+<h2>{{page.title}}</h2>
+{% endif %}
+
+{{content}}
+
+{% assign indexMinus = page.index | minus: 1 %}
+{% assign indexPlus = page.index | plus: 1 %}
+{% assign prev_chp = site.story_chapters | where:"story", page.story | where:"version", page.version | where:"index", indexMinus | first %}
+{% assign next_chp = site.story_chapters | where:"story", page.story | where:"version", page.version | where:"index", indexPlus | first %}
+
+{% if prev_chp %}<p>Previous: <a href="{{prev_chp.url}}">{{prev_chp.title}}</a></p>{% endif %}
+{% if next_chp %}<p>Next: <a href="{{next_chp.url}}">{{next_chp.title}}</a></p>{% endif %}

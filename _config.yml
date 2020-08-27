@@ -8,6 +8,12 @@ collections:
     output: true
   projects:
     output: true
+  stories:
+    output: true
+  story_versions:
+    output: true
+  story_chapters:
+    output: true
 
 defaults:
   - scope:
@@ -30,6 +36,24 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: ""
+      type: "stories"
+    values:
+      layout: "story"
+      permalink: /story/:name
+  - scope:
+      path: ""
+      type: "story_versions"
+    values:
+      layout: "story_version"
+      permalink: /story/version/:name
+  - scope:
+      path: ""
+      type: "story_chapters"
+    values:
+      layout: "story_chapter"
+      permalink: /story/:categories/:name
   - scope:
       path: ""
     values:

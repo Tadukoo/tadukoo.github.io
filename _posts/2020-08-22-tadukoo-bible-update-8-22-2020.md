@@ -6,6 +6,8 @@ series: "Tadukoo Bible"
 index: 1
 categories: blog
 tags: 
+- Bukkit
+- Minecraft
 - Programming
 - Tadukoo Bible
 comment_issue_id: 33

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+<h1>{{page.title}}</h1>
+{% if page.logo %}<img src="/assets/images/{{page.logo}}" alt="{{page.title}}" style="float: right" />{% endif %}
+{{page.summary | markdownify}}
+
+{% assign story = site.stories | where:"short_name", page.story | first %}
+<p>This is the table of contents for <a href="{{story.url}}">{{story.title}}</a> ({{page.version}} Version).</p>
+
+{% if page.parts %}
+{% for part in page.parts %}
+<h2>Part {{forloop.index}}: {{part}}</h2>
+<p>{{page.part_blurbs[forloop.index0]}}</p>
+<ul>
+{% assign part_chps = site.story_chapters | where:"story", page.story | where:"version", page.version | where:"part", forloop.index | sort:"chapter" %}
+{% for part_chp in part_chps %}
+<li><a href="{{part_chp.url}}">{{part_chp.title}}</a> - {{part_chp.blurb}}</li>
+{% endfor %}
+</ul>
+{% endfor %}
+{% else %}
+
+{% endif %}
+
+{{content}}
