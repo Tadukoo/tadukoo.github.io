@@ -3,7 +3,7 @@ title: Lucario and Lickilicky's Adventure Yellow Version
 story: LucarioAdventure
 version: Yellow
 index: 2
-logo: 
+logo: story/lucario-adventure/l&l-yellow-cover.png
 blurb: Eventually I realized that the first several chapters weren't written as good as they could have been, so I wanted to re-make them, so I started Yellow Version. It was started on July 5, 2009.
 summary: >
   Eventually I realized that the first several chapters weren't written as good as they could have been, so I wanted to re-make them, so I started Yellow Version. It was started on July 5, 2009.
