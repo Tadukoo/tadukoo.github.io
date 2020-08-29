@@ -15,6 +15,8 @@ story. Obviously there's a lot of room for improvement to it and I'm not claimin
 to be me just trying to write something, and they're much shorter).
 
 The story versions:
-* [Blue Version](/story/version/lucario-adventure-blue.html)
+{% assign versions = site.story_versions | where:"story", short_name | sort:"index" %}
+{% for version in versions %}* [{{version.version}} Version]({{version.url}}) - {{version.blurb}}
+{% endfor %}
 
 Other versions to be added to this site in the future.

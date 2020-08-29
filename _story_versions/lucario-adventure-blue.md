@@ -2,6 +2,7 @@
 title: Lucario and Lickilicky's Adventure Blue Version
 story: LucarioAdventure
 version: Blue
+index: 1
 logo: 
 blurb: This was the original version of Lucario and Lickilicky's Adventure. With the version numbering system I devised, it had gotten up to Version 59.
 summary: >
