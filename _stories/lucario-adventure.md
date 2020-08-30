@@ -18,5 +18,3 @@ The story versions:
 {% assign versions = site.story_versions | where:"story", short_name | sort:"index" %}
 {% for version in versions %}* [{{version.version}} Version]({{version.url}}) - {{version.blurb}}
 {% endfor %}
-
-Other versions to be added to this site in the future.

@@ -4,9 +4,9 @@ story: LucarioAdventure
 version: Gold
 index: 6
 logo: 
-blurb: With Gold version, I decided to make the story into a saga, with all the previous versions technically being canon.
+blurb: With Gold version, I decided to make the story into a saga, with all the previous versions technically being canon. It was started on April 10, 2011.
 summary: >
-  With Gold version, I decided to make the story into a saga, with all the previous versions technically being canon.
+  With Gold version, I decided to make the story into a saga, with all the previous versions technically being canon. It was started on April 10, 2011.
 parts:
 - Pikmin
 part_blurbs:
