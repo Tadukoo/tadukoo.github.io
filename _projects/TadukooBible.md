@@ -89,7 +89,7 @@ Open English Bible (OEB) (0%)
 ## The Story Behind the Plugin
 The story contains information about why the 1.1 update is so far away from the 1.0 update, among other things.
 
-[See this page for the story behind Tadukoo Bible.]({% post_url 2020-08-22-story-behind-tadukoo-bible %})
+[See this blog post for the story behind Tadukoo Bible.](https://tadukoo.blogspot.com/2020/08/tadukoo-bible-update-8222020.html)
 
 ## Important Links
 [GitHub plugin page](https://github.com/Tadukoo/TadukooBibleProject)
