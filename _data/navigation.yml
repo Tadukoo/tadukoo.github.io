@@ -2,11 +2,11 @@
   link: /
 - name: Projects
   link: /projects.html
-- name: About
-  link: /about.html
-- name: Blog
-  link: https://tadukoo.blogspot.com
 - name: Stories
   link: /stories.html
+- name: Blog
+  link: https://tadukoo.blogspot.com
+- name: About
+  link: /about.html
 - name: Sitemap
   link: /sitemap.html
